@@ -1,2 +1,2 @@
 # hello-world
-Getting onto Git-hub
+Getting on with Git-hub hands on
